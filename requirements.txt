@@ -1,0 +1,2 @@
+matplotlib>=3.7
+ofxparse>=0.21  # opcional: importação de extratos OFX
